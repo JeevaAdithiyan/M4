@@ -118,7 +118,7 @@ int main() {
 }
 
 # Output:
-<img width="1920" height="1080" alt="m4 3" src="https://github.com/user-attachments/assets/3305145f-6ce6-4bd3-834a-ddd37464e729" />
+<img width="1920" height="1080" alt="m4 2" src="https://github.com/user-attachments/assets/f47abbab-cf43-4949-9060-97b78afaced5" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
