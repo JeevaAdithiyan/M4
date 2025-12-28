@@ -56,7 +56,7 @@ int main() {
 }
 
 # Output:
-<img width="1920" height="1080" alt="m4 4" src="https://github.com/user-attachments/assets/1841f693-b80e-4bca-8179-38e7e74ab240" />
+![Uploading m4.1.png…]()
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
